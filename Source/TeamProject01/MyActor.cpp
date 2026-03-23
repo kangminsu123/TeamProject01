@@ -15,7 +15,7 @@ AMyActor::AMyActor()
 void AMyActor::BeginPlay()
 {
 	Super::BeginPlay();
-	UE_LOG(LogTemp, Log, TEXT("Game Start"))
+	//UE_LOG(LogTemp, Log, TEXT("Game Start"))
 }
 
 // Called every frame
